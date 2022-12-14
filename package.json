@@ -1,0 +1,14 @@
+{
+  "name": "graphql",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/server": "^4.3.0",
+    "graphql": "^16.6.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
